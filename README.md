@@ -1,7 +1,7 @@
 # keystroke_dynamics By Kevin Machado Gamboa
 Date: 21/09/2020
 
-This repository is my personal contribution to the "Accompaniment to Comparing Anomaly-Detection Algorithms for Keystroke Dynamics", by Kevin Killourhy and Roy Maxion. For more information about this Database and its creators, please visit: https://www.cs.cmu.edu/~keystroke/. Also, check next references and the Notebook in this repository ;)
+This repository is my personal contribution to the "Accompaniment to Comparing Anomaly-Detection Algorithms for Keystroke Dynamics", by Kevin Killourhy and Roy Maxion. For more information about this Database and its creators, please visit: https://www.cs.cmu.edu/~keystroke/. **Also, check next references and the Notebook in this repository ;)**
 
 
 References:
